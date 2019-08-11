@@ -1,2 +1,2 @@
 # SpyderExerciseProject
-練習python
+exercise deeplearning by python
